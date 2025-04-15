@@ -1,0 +1,338 @@
+[
+  {
+    "name": "iPhone 14 Pro",
+    "price": 1199,
+    "featured": true,
+    "rating": 4.9,
+    "company": "apple"
+  },
+  {
+    "name": "Galaxy S23 Ultra",
+    "price": 999,
+    "featured": true,
+    "rating": 4.8,
+    "company": "samsung"
+  },
+  {
+    "name": "Dell XPS 13",
+    "price": 1300,
+    "featured": false,
+    "rating": 4.7,
+    "company": "dell"
+  },
+  {
+    "name": "Mi 11X Pro",
+    "price": 499,
+    "featured": false,
+    "rating": 4.6,
+    "company": "mi"
+  },
+  {
+    "name": "Apple Watch Series 9",
+    "price": 399,
+    "featured": true,
+    "rating": 4.9,
+    "company": "apple"
+  },
+  {
+    "name": "Samsung Galaxy Watch 6",
+    "price": 349,
+    "featured": false,
+    "rating": 4.5,
+    "company": "samsung"
+  },
+  {
+    "name": "Dell Inspiron 15",
+    "price": 699,
+    "featured": true,
+    "rating": 4.6,
+    "company": "dell"
+  },
+  {
+    "name": "Mi Band 7",
+    "price": 50,
+    "featured": false,
+    "rating": 4.4,
+    "company": "mi"
+  },
+  {
+    "name": "MacBook Air M2",
+    "price": 1499,
+    "featured": true,
+    "rating": 4.9,
+    "company": "apple"
+  },
+  {
+    "name": "Samsung Tab S8",
+    "price": 650,
+    "featured": false,
+    "rating": 4.6,
+    "company": "samsung"
+  },
+  {
+    "name": "Dell G15 Gaming",
+    "price": 1200,
+    "featured": true,
+    "rating": 4.8,
+    "company": "dell"
+  },
+  {
+    "name": "Mi Notebook Ultra",
+    "price": 799,
+    "featured": false,
+    "rating": 4.7,
+    "company": "mi"
+  },
+  {
+    "name": "iPhone SE",
+    "price": 399,
+    "featured": false,
+    "rating": 4.5,
+    "company": "apple"
+  },
+  {
+    "name": "Galaxy A53",
+    "price": 349,
+    "featured": true,
+    "rating": 4.3,
+    "company": "samsung"
+  },
+  {
+    "name": "Dell Vostro 3510",
+    "price": 589,
+    "featured": false,
+    "rating": 4.2,
+    "company": "dell"
+  },
+  {
+    "name": "Mi Pad 5",
+    "price": 399,
+    "featured": true,
+    "rating": 4.6,
+    "company": "mi"
+  },
+  {
+    "name": "AirPods Pro",
+    "price": 249,
+    "featured": true,
+    "rating": 4.9,
+    "company": "apple"
+  },
+  {
+    "name": "Samsung Galaxy Buds 2",
+    "price": 149,
+    "featured": false,
+    "rating": 4.4,
+    "company": "samsung"
+  },
+  {
+    "name": "Dell Alienware M15",
+    "price": 1800,
+    "featured": true,
+    "rating": 4.9,
+    "company": "dell"
+  },
+  {
+    "name": "Mi Router AX6000",
+    "price": 129,
+    "featured": false,
+    "rating": 4.5,
+    "company": "mi"
+  },
+  {
+    "name": "iPad Mini",
+    "price": 499,
+    "featured": true,
+    "rating": 4.8,
+    "company": "apple"
+  },
+  {
+    "name": "Galaxy Tab A8",
+    "price": 299,
+    "featured": false,
+    "rating": 4.3,
+    "company": "samsung"
+  },
+  {
+    "name": "Dell Precision 5560",
+    "price": 2100,
+    "featured": true,
+    "rating": 4.9,
+    "company": "dell"
+  },
+  {
+    "name": "Mi TV Stick",
+    "price": 39,
+    "featured": false,
+    "rating": 4.2,
+    "company": "mi"
+  },
+  {
+    "name": "Mac Studio",
+    "price": 1999,
+    "featured": true,
+    "rating": 4.9,
+    "company": "apple"
+  },
+  {
+    "name": "Galaxy Buds Live",
+    "price": 129,
+    "featured": true,
+    "rating": 4.4,
+    "company": "samsung"
+  },
+  {
+    "name": "Dell Optiplex 3090",
+    "price": 899,
+    "featured": false,
+    "rating": 4.5,
+    "company": "dell"
+  },
+  {
+    "name": "Mi Soundbar",
+    "price": 99,
+    "featured": false,
+    "rating": 4.3,
+    "company": "mi"
+  },
+  {
+    "name": "iMac 24-inch",
+    "price": 1599,
+    "featured": true,
+    "rating": 4.8,
+    "company": "apple"
+  },
+  {
+    "name": "Galaxy Note 20",
+    "price": 999,
+    "featured": false,
+    "rating": 4.6,
+    "company": "samsung"
+  },
+  {
+    "name": "Dell Latitude 7430",
+    "price": 1499,
+    "featured": true,
+    "rating": 4.7,
+    "company": "dell"
+  },
+  {
+    "name": "Mi 11 Ultra",
+    "price": 699,
+    "featured": false,
+    "rating": 4.6,
+    "company": "mi"
+  },
+  {
+    "name": "AirTag",
+    "price": 29,
+    "featured": false,
+    "rating": 4.5,
+    "company": "apple"
+  },
+  {
+    "name": "Samsung SmartTag+",
+    "price": 35,
+    "featured": true,
+    "rating": 4.4,
+    "company": "samsung"
+  },
+  {
+    "name": "Dell PowerEdge T40",
+    "price": 679,
+    "featured": false,
+    "rating": 4.3,
+    "company": "dell"
+  },
+  {
+    "name": "Mi Wireless Mouse",
+    "price": 20,
+    "featured": false,
+    "rating": 4.1,
+    "company": "mi"
+  },
+  {
+    "name": "Apple Magic Keyboard",
+    "price": 99,
+    "featured": true,
+    "rating": 4.8,
+    "company": "apple"
+  },
+  {
+    "name": "Samsung Portable SSD",
+    "price": 139,
+    "featured": true,
+    "rating": 4.7,
+    "company": "samsung"
+  },
+  {
+    "name": "Dell UltraSharp U2723QE",
+    "price": 649,
+    "featured": false,
+    "rating": 4.9,
+    "company": "dell"
+  },
+  {
+    "name": "Mi Smart Speaker",
+    "price": 45,
+    "featured": true,
+    "rating": 4.3,
+    "company": "mi"
+  },
+  {
+    "name": "MacBook Pro 14",
+    "price": 1999,
+    "featured": true,
+    "rating": 4.9,
+    "company": "apple"
+  },
+  {
+    "name": "Samsung Frame TV",
+    "price": 1199,
+    "featured": true,
+    "rating": 4.7,
+    "company": "samsung"
+  },
+  {
+    "name": "Dell Monitor SE2422H",
+    "price": 149,
+    "featured": false,
+    "rating": 4.2,
+    "company": "dell"
+  },
+  {
+    "name": "Mi Box S",
+    "price": 59,
+    "featured": false,
+    "rating": 4.2,
+    "company": "mi"
+  },
+  {
+    "name": "iPhone 13 Mini",
+    "price": 699,
+    "featured": false,
+    "rating": 4.7,
+    "company": "apple"
+  },
+  {
+    "name": "Galaxy Z Flip 5",
+    "price": 1099,
+    "featured": true,
+    "rating": 4.8,
+    "company": "samsung"
+  },
+  {
+    "name": "Dell Chromebook 11",
+    "price": 289,
+    "featured": false,
+    "rating": 4.1,
+    "company": "dell"
+  },
+  {
+    "name": "Mi Power Bank 3i",
+    "price": 25,
+    "featured": false,
+    "rating": 4.4,
+    "company": "mi"
+  }
+]
